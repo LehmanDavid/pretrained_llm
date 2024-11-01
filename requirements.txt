@@ -1,0 +1,7 @@
+tiktoken
+torch
+matplotlib
+numpy
+import-ipynb
+tensorflow
+tqdm
